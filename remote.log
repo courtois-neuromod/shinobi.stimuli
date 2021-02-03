@@ -1,0 +1,1 @@
+62694806-b4c9-4156-848e-62791ba9c99b autoenable=true bucket=cneuromod.shinobi.stimuli chunk=1GiB datacenter=US encryption=none exporttree=no host=s3.unf-montreal.ca name=s3unf.cneuromod.shinobi.stimuli port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1612376999.617117s
