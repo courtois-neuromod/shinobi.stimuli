@@ -1,0 +1,152 @@
+{
+  "info": {
+    "DisapearLeaves": {
+      "address": 16728350,
+      "type": ">u4"
+    },
+    "X_player": {
+      "address": 16728398,
+      "type": ">i2"
+    },
+    "X_screen": {
+      "address": 16769024,
+      "type": ">u2"
+    },
+    "X_screen_total": {
+      "address": 16769038,
+      "type": ">u4"
+    },
+    "Y_acc": {
+      "address": 16728395,
+      "type": ">i1"
+    },
+    "Y_player": {
+      "address": 16728402,
+      "type": ">i2"
+    },
+    "Y_screen": {
+      "address": 16769028,
+      "type": ">i2"
+    },
+    "Y_special_acc": {
+      "address": 16728394,
+      "type": ">i3"
+    },
+    "a 2 position en": {
+      "address": 16728566,
+      "type": ">u2"
+    },
+    "a 3 teleport dg": {
+      "address": 16728565,
+      "type": ">u2"
+    },
+    "a 4": {
+      "address": 16728557,
+      "type": ">u2"
+    },
+    "a1": {
+      "address": 16728566,
+      "type": ">u4"
+    },
+    "backTree": {
+      "address": 16727316,
+      "type": ">n8"
+    },
+    "backbackground": {
+      "address": 16773214,
+      "type": ">u4"
+    },
+    "backbackground(e-c)": {
+      "address": 16773214,
+      "type": ">u4"
+    },
+    "backbackgroundblack": {
+      "address": 16773208,
+      "type": ">n8"
+    },
+    "backbackgroundblue": {
+      "address": 16773209,
+      "type": ">n8"
+    },
+    "backbrush": {
+      "address": 16773191,
+      "type": ">n8"
+    },
+    "backbuissonblack": {
+      "address": 16773188,
+      "type": ">n8"
+    },
+    "backlastTree": {
+      "address": 16773202,
+      "type": ">n8"
+    },
+    "backtreegroundblack": {
+      "address": 16773195,
+      "type": ">n8"
+    },
+    "backtreegroundblue": {
+      "address": 16773193,
+      "type": ">n8"
+    },
+    "backtreegroundlastcolor": {
+      "address": 16773192,
+      "type": ">n8"
+    },
+    "blackScreen": {
+      "address": 16711716,
+      "type": ">n6"
+    },
+    "enemy ": {
+      "address": 16728480,
+      "type": ">u4"
+    },
+    "first enemy": {
+      "address": 16728452,
+      "type": ">i2"
+    },
+    "health": {
+      "address": 16725993,
+      "type": "|u1"
+    },
+    "instantScore": {
+      "address": 16725938,
+      "type": ">d4"
+    },
+    "lives": {
+      "address": 16725984,
+      "type": "|i1"
+    },
+    "ninjitsu": {
+      "address": 16725968,
+      "type": "|u1"
+    },
+    "ride": {
+      "address": 16728406,
+      "type": ">d2"
+    },
+    "score": {
+      "address": 16725942,
+      "type": ">d4"
+    },
+    "section": {
+      "address": 16725928,
+      "type": ">i1"
+    },
+    "shurikens": {
+      "address": 16725986,
+      "type": ">u2"
+    },
+    "status": {
+      "address": 16728410,
+      "type": ">i2"
+    },
+    "strange": {
+      "address": 16736000,
+      "type": ">u2"
+    },
+    "typeOfNinjitsu": {
+      "address": 16725991,
+      "type": "|u1"
+    }
+  }
+}
