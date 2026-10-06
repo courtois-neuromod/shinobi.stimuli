@@ -108,6 +108,10 @@
       "address": 16725993,
       "type": "|u1"
     },
+    "hit_timer": {
+      "address": 16728421,
+      "type": "|u1"
+    },
     "instantScore": {
       "address": 16725938,
       "type": ">d4"
